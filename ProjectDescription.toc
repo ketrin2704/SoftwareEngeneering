@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Thought Process}{2}
+\contentsline {section}{\numberline {3}Programs}{3}
+\contentsline {subsection}{\numberline {3.1}Connection}{3}
+\contentsline {subsection}{\numberline {3.2}Web scraper}{3}
+\contentsline {subsection}{\numberline {3.3}MapReduce}{4}
+\contentsline {subsubsection}{\numberline {3.3.1}Mapper}{4}
+\contentsline {subsubsection}{\numberline {3.3.2}Reducer}{5}
+\contentsline {section}{\numberline {4}How to use?}{5}
+\contentsline {subsection}{\numberline {4.1}Libraries used}{5}
+\contentsline {subsection}{\numberline {4.2}Other subsections}{5}
+\contentsline {section}{References}{a}
