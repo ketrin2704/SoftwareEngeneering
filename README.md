@@ -21,4 +21,7 @@ In order to run the program there is a need deploy a **HADOOP** cluster, using G
 *https://cloud.google.com/dataproc/*
 
 
+### Run job localy
 
+To run job localy, type in cli:
+`cat result_total.csv | python mapper.py | sort | python reducer.py`
