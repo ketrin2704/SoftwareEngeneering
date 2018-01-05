@@ -6,6 +6,15 @@ In order to simplify investment decisions making the program analyses the receiv
 
 
 
-# Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+The file woth requirements is provided inthe main branch.
+To configure the default requirements file:
+1. Open the Settings/Preferences dialog box, and then click the page Python Integrated Tools.
+2. In the Package requirements file field, type the name of the requirements file. 
+
+
