@@ -12,9 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The file woth requirements is provided inthe main branch.
+The file with requirements is provided in the main branch.
 To configure the default requirements file:
-1. Open the Settings/Preferences dialog box, and then click the page Python Integrated Tools.
+1. Open the Settings/Preferences dialog box of the PyCharm, and then click the page Python Integrated Tools.
 2. In the Package requirements file field, type the name of the requirements file. 
 
 
