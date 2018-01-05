@@ -17,4 +17,8 @@ To configure the default requirements file:
 1. Open the Settings/Preferences dialog box of the PyCharm, and then click the page Python Integrated Tools.
 2. In the Package requirements file field, type the name of the requirements file. 
 
+In order to run the program there is a need deploy a **HADOOP** cluster, using Google Cloud service.
+*https://cloud.google.com/dataproc/*
+
+
 
