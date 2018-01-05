@@ -1,0 +1,9 @@
+bs4
+lxml
+urllib3
+requests
+zipfile
+os
+io
+sys
+pandas
